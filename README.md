@@ -39,6 +39,7 @@ Design aspirations include:
 * <b>Simplified</b> utilities to enhance/enable online social interaction, similar to existing social media platforms
 * <b>Trust</b>: Monke products are an endorsement for user safety, transparency, & only ethical pattern usage
 * Reuse of other open-source projects where possible, with Monke branding applied. User trust enables Monke branding to envelop and endorse other projects whether open source or commercial
+* Have fun & learn about web development and the modern technology stack through reverse engineering interesting applications 
 
 
 # Blue-sky goals:
