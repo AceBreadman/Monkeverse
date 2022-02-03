@@ -1,5 +1,7 @@
 # Monkeverse
 
+![image](https://user-images.githubusercontent.com/23952709/152291260-d6b1a8f9-fb47-4cb2-bef8-ef0d85da52af.png)
+
 This Github is a repository for a collection IP-law compliant collection of copycat social media platforms.
 
 The project is in the design stage, and is purposed as a hobby-project and experiment.
