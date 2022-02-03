@@ -29,7 +29,7 @@ The design objectives of the project must take into consideration the fact that 
 
 Design requirements include:
 * Secure, unified log-in service across all Monke platforms
-* Content filtering
+* Content filtering (for socially problematic content)
 * Public-visible links; (e.g. no account required to view links, threads in public facing social media clones)
 
 Design aspirations include:
