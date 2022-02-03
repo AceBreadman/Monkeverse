@@ -32,6 +32,7 @@ Design aspirations include:
 * Copying of UI features
 * Minimal reliance upon external packages & code to minimise maintenance requirements
 * Minimization of social-media features to bare essentials, to minimise complexity
+* <b>Simplified</b> utilities to enhance/enable online social interaction, similar to existing social media platforms
 
 
 # Blue-sky goals:
