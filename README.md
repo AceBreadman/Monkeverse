@@ -48,3 +48,4 @@ Design aspirations include:
 * MonkeCloud (Monke themed cloud storage)
 * MonkeCash (Monke themed crytocurrency)
 * MonkeVote (Monke themed Reddit/Digg content aggregator)
+* AskMonke (Quora, Stackoverflow)
