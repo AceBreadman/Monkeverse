@@ -37,7 +37,8 @@ Design aspirations include:
 * Minimal reliance upon external packages & code to minimise maintenance requirements
 * Minimization of social-media features to bare essentials, to minimise complexity
 * <b>Simplified</b> utilities to enhance/enable online social interaction, similar to existing social media platforms
-* <b>Trust</b>: User trust will make it acceptable for Monke branding to act as a shell; enveloping other projects whether open source or commercial. The key design goal is user trust/reuse/packaging. Monke products are an endorsement for user safety, transparency, & only ethical pattern usage
+* <b>Trust</b>: Monke products are an endorsement for user safety, transparency, & only ethical pattern usage
+* Reuse of other open-source projects where possible, with Monke branding applied. User trust enables Monke branding to envelop and endorse other projects whether open source or commercial
 
 
 # Blue-sky goals:
@@ -56,3 +57,4 @@ Design aspirations include:
 * AskMonke (Quora, Stackoverflow)
 * MonkeChat (Discord)
 * MonkeOffice (Monke branded Office Suite)
+* MonkeChrome (Chromium web browser)
