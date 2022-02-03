@@ -22,6 +22,9 @@ I would expect that a collection of hobbyist knock-off social media platforms wo
 
 
 # Design goals
+
+<img src="https://user-images.githubusercontent.com/23952709/152300839-287423f2-225f-45b5-9b9e-1c297bbf684d.png" width="250">
+
 The design objectives of the project must take into consideration the fact that this project has a virtually empty budget; in terms of money, software development skill, computing resources, and labour resources.
 
 Design requirements include:
