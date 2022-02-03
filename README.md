@@ -53,3 +53,5 @@ Design aspirations include:
 * MonkeCash (Monke themed crytocurrency)
 * MonkeVote (Monke themed Reddit/Digg content aggregator)
 * AskMonke (Quora, Stackoverflow)
+* MonkeChat (Discord)
+* MonkeOffice (Monke branded Office Suite)
